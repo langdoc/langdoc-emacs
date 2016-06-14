@@ -1,6 +1,6 @@
 # langdoc.el
 
-According to recent [survey](http://www.paradisec.org.au/blog/2016/06/results-of-the-metadata-survey/) by Nick Thieberger, 48.1 % of field linguists are using pen and paper to manage their metadata. In many cases the metadata is derived from the recordings we do or from the notes we make while we record. The solution presented here serves in many ways the both situations, helping to structure the recorded content while it is being created, and making it easier to create our notes in digital format to start with.
+According to recent [survey](http://www.paradisec.org.au/blog/2016/06/results-of-the-metadata-survey/) by Nick Thieberger, 48.1 % of field linguists are using pen and paper to manage their metadata. And no matter how metadata is edited, I would assume that in many cases the metadata is derived from the recordings we do or from the notes we make while we record. The solution presented here serves in many ways the both situations, helping to structure the recorded content while it is being created, and making it easier to create our notes in digital format to start with.
 
 In my own setup it works with Raspberry Pi, but I've also tested it well on Mac and that works well. I will write a blog post which goes through the rationale behind it, but the idea is quite simple.
 
