@@ -2,7 +2,7 @@
 
 According to recent [survey](http://www.paradisec.org.au/blog/2016/06/results-of-the-metadata-survey/) by Nick Thieberger, 48.1 % of field linguists are using pen and paper to manage their metadata. And no matter how metadata is edited, I would assume that in many cases the metadata is derived from the recordings we do or from the notes we make while we record. The solution presented here serves in many ways the both situations, helping to structure the recorded content while it is being created, and making it easier to create our notes in digital format to start with.
 
-In my own setup it works with Raspberry Pi, but I've also tested it well on Mac and that works well. I will write a blog post which goes through the rationale behind it, but the idea is quite simple.
+In my own setup it works with Raspberry Pi, but I've also tested it on Mac and that works well. Actually in real use I ended up to prefer Macbook since it just allowed more space on screen. I will write a blog post which goes through the rationale behind it, but the idea is quite simple.
 
 - We want to make notes while recording
 - This means we have to use some keyboard which makes very little sound
